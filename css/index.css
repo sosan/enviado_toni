@@ -45,6 +45,13 @@ a
 
 }
 
+.cajaTexto
+{
+    border: 1px solid black;
+    background-color: navajowhite;
+    text-justify: ;
+}
+
 .banner
 {
     display: flex;
