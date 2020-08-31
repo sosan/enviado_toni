@@ -8,6 +8,7 @@
 
     justify-content: center;
     align-items: center;
+    margin-bottom: 30px;
 
 }
 
@@ -33,6 +34,7 @@
     /* flex-grow: 1;
     flex-basis: 100; */
     /* flex-shrink: unset; */
+   
 
 }
 
@@ -41,8 +43,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
 
 
+}
+
+.bordebanner
+{
+    border: 3px solid brown;
 }
 
 .copy
@@ -50,5 +58,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+
+    color:whitesmoke;
 
 }

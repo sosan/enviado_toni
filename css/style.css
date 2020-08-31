@@ -32,6 +32,7 @@ html
     font-family: "robotoregular", sans-serif;
     font-size: 16px;
     background-color: #ffffff;
+    
     color: black;
 }
 
@@ -40,6 +41,8 @@ body
 {
     padding: 1.25rem 1.25rem 0em 1.25rem;
     height: 100vh;
+    background-image: url("../img/svg/wave.svg");
+    background-repeat: round;
 
 }
 
